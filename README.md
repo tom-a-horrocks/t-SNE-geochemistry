@@ -1,5 +1,5 @@
 # t-SNE-geochemistry
-This repository holds scripts demonstrating methods for the journal article "Geochemical characterisation of rock hydration processes using t-SNE" (submitted). The dataset used within the journal article is not open file, so a public chemical assay database has been used in this repository.
+This repository holds scripts demonstrating methods for the journal article [Geochemical characterisation of rock hydration processes using t-SNE](https://www.sciencedirect.com/science/article/pii/S0098300418300463). The dataset used within the journal article is not open file, so a public chemical assay database has been used in this repository.
 
 ## How to use
 The "examples/examples.R" file walks through the available functions with an open file chemical assay database (see https://www.rdocumentation.org/packages/compositions/versions/1.40-1/topics/Hydrochem).
